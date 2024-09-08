@@ -2,9 +2,9 @@ Detection of Malicious or Benign Websites Using ML Algorithms
 Final Year Project - Machine Learning Application
 
 Group Members:
-⦿ Md Tousif Rehman, 3VC20IS016
-⦿ P Yathiraj, 3VC20IS036
-⦿ S Mohammed Ali, 3VC20IS026
+1. Md Tousif Rehman, 3VC20IS016
+2. P Yathiraj, 3VC20IS036
+3. S Mohammed Ali, 3VC20IS026
 
 Project Description:
 
