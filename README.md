@@ -4,7 +4,7 @@ Final Year Project - Machine Learning Application
 Group Members:
 ⦿ Md Tousif Rehman, 3VC20IS016
 ⦿ P Yathiraj, 3VC20IS036
-⦿ S Mohammed Ali, 3VC20Is026
+⦿ S Mohammed Ali, 3VC20IS026
 
 Project Description:
 
